@@ -12,7 +12,7 @@ Creating Simple Time Service using Python on AWS Ec2 Instance
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
->> check the version
+>> check the if AWS installed or not
 >> aws --version
 >Now give your credentials by entering below command and create access key on IAM dashboard add those values below
 >> aws configure
