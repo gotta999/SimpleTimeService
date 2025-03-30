@@ -38,7 +38,8 @@ docker run -d -p 8080:8080 simpletimeservice
 >> our app succefully running now :)
 >> goto chrome just enter http://ec2-ip-address:8080/
 >> Will show below page
->> ![Uploading Screenshot 2025-03-30 112205.png…]()
+>> ![Screenshot 2025-03-30 112205](https://github.com/user-attachments/assets/33ce6a16-4ea6-465f-afc4-ae7e4870fd16)
+
 >> Now you can push image to dockerhub
 >> docker login
 >> enter theis url on browser  give the code that was showing on CMD https://login.docker.com/activate
