@@ -33,7 +33,7 @@ resource "aws_ecs_task_definition" "simple_time_task" {
   container_definitions = jsonencode([
     {
       name      = "simple-time-service"
-      image     = "your-dockerhub-username/simpletimeservice:latest"
+      image     = "gottavasundhara/simpletimeservice:latest"
       cpu       = var.ecs_cpu
       memory    = var.ecs_memory
       essential = true
