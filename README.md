@@ -10,6 +10,7 @@ Creating Simple Time Service using Python on AWS Ec2 Instance
 >> now install aws cli on ubuntu macheine
 >Run below commands
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+sudo apt install unzip
 unzip awscliv2.zip
 sudo ./aws/install
 >> check the if AWS installed or not
